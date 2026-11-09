@@ -1,2 +1,2 @@
-# Einreise-System
-✈️ Modernes Einreise-System für FiveM auf Basis von ESX Legacy. Mit automatischer Einreisesperre, serverseitiger Sicherheitsprüfung, Datenbankspeicherung, Teamler-Verwaltung, Beamten-Outfit und umfangreichen Konfigurationsmöglichkeiten. Entwickelt von NOVA Development.
+Whitelist System
+✈️ Modern Whitelist system for FiveM based on ESX Legacy. Featuring automatic entry restrictions, server-side security checks, database storage, staff management, a custom immigration officer outfit, and extensive configuration options. Developed by NOVA Development.
